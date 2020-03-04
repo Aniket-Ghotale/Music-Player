@@ -1,7 +1,7 @@
 # Music-Player
-*What is Sangit?
+# What is Sangit?
   Sangit is an app that allows you to upload and store all of your music on the cloud.
-*How do I add music?
+# How do I add music?
   First, create a new album by filling out the form on this page. Once an album is created you will be able to add/upload songs.
   
 # Screenshot of the music-player
