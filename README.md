@@ -1,4 +1,5 @@
 # Music-Player
+  Sangit is an app that allows you to upload and store all of your music on the cloud.
 # Screenshot of the music-player
 ![login1](https://user-images.githubusercontent.com/40627830/75873371-c7684b00-5e35-11ea-8172-a43105772e2b.png)
 ![add album2](https://user-images.githubusercontent.com/40627830/75873384-cdf6c280-5e35-11ea-918d-32782f252518.png)
